@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lishad-et-service.netlify.app/sitemap.xml
